@@ -26,11 +26,6 @@
 <br>
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/devrjs/7a44b7fb3f54654c7a9722d075941c93/raw/f7352d1a78e032131696a077684a28f3695d1b64/githubcard.svg"/>
 
-<div align="center">
-  <img height="40px" src="https://em-content.zobj.net/source/toss-face/372/flag-brazil_1f1e7-1f1f7.png" />
-  <img height="40px" src="https://em-content.zobj.net/source/toss-face/372/flag-us-outlying-islands_1f1fa-1f1f2.png" />
-</div>
-
  ### 🚀 Main skills
  Technologies: <br>
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
