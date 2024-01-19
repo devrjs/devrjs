@@ -4,6 +4,8 @@ Iniciando na área de tecnologia após concluir meu Bacharelado em Análise e De
 
 Fascinado com a rapidez das inovações em front-end, invisto todo meu tempo livre em cursos, documentações e projetos pessoais para me manter atualizado em tecnologias como React, TypeScript e Node.js.
 
+✨ >> [Portfólio](https://vitorgomes.vercel.app/) <<
+
 ## 🌐 Sociais:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitorgms/) [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/5518991222161)
