@@ -6,7 +6,7 @@ Fascinado com a rapidez das inovações em front-end, invisto todo meu tempo liv
 
 ✨ >> [Portfólio](https://vitorgomes.vercel.app/) <<
 
-## 🌐 Rede Sociais:
+## 🌐 Redes Sociais:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitorgms/) [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/5518991222161)
 
