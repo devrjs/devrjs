@@ -4,7 +4,7 @@ Iniciando na área de tecnologia após me graduar em Análise e Desenvolvimento 
 
 Fascinado com a rapidez das inovações em front-end, invisto todo meu tempo livre em cursos, documentações e projetos pessoais para me manter atualizado em tecnologias como React, TypeScript e Node.js.
 
-✨ >> [Portfólio](https://vitorgomes.vercel.app/) <<
+<!--  ✨ >> [Portfólio](https://vitorgomes.vercel.app/) <<  -->
 
 ## 🌐 Redes Sociais:
 
