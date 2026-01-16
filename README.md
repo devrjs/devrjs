@@ -1,14 +1,14 @@
 ## 💫 Sobre mim:
 
-Iniciando na área de tecnologia após me graduar em Análise e Desenvolvimento de Sistemas, busco ansiosamente minha primeira oportunidade para aplicar meus conhecimentos acadêmicos e paixão por desenvolvimento de software.
+Desenvolvedor Full Stack apaixonado por transformar ideias em produtos digitais de alta performance. Combino minha formação em Análise e Desenvolvimento de Sistemas com experiência prática na construção de interfaces modernas e APIs robustas.
 
-Fascinado com a rapidez das inovações em front-end, invisto todo meu tempo livre em cursos, documentações e projetos pessoais para me manter atualizado em tecnologias como React, TypeScript e Node.js.
+Atualmente, concentro minha expertise em TypeScript, orquestrando arquiteturas eficientes com Next.js no front-end e Node.js no back-end. Busco entregar não apenas código limpo, mas experiências de usuário excepcionais.
 
 <!--  ✨ >> [Portfólio](https://vitorgomes.vercel.app/) <<  -->
 
-## 🌐 Redes Sociais:
+<!-- ## 🌐 Redes Sociais:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitorgms/) [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/5518991222161)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitorgms/) [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/5518991222161) -->
 
 ## 💻 Tecnologias:
 
