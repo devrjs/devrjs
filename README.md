@@ -1,7 +1,5 @@
 <div align="center">
 
-# 👨‍💻 Vitor J. Gomes
-
 ### Desenvolvedor Full Stack · React · Next.js · Node.js · TypeScript
 
 📍 Presidente Prudente, SP — Brasil
