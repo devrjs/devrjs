@@ -6,7 +6,13 @@ Atualmente, concentro minha expertise em **TypeScript**, orquestrando arquitetur
 
 ## 🌐 Redes Sociais
 
-[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vitorgomes.vercel.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitorgms/) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5518991222161)
+[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vitorjgomes.vercel.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitorgms/) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5518991222161)
+
+## 🚀 Portfólio
+
+Confira meus projetos e mais detalhes sobre minha trajetória no meu portfólio:
+
+[![Portfólio Vitor Gomes](https://img.shields.io/badge/🌐%20vitorjgomes.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vitorjgomes.vercel.app/)
 
 ## 💻 Tecnologias
 
