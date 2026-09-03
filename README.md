@@ -1,33 +1,77 @@
+<div align="center">
+
+# 👨‍💻 Vitor J. Gomes
+
+### Desenvolvedor Full Stack · React · Next.js · Node.js · TypeScript
+
+📍 Presidente Prudente, SP — Brasil
+
+[![Portfólio](https://img.shields.io/badge/Portfólio-vitorjgomes.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vitorjgomes.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitorgms/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5518991222161)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vitorjgomes25@gmail.com)
+
+</div>
+
+---
+
 ## 💫 Sobre mim
 
-Desenvolvedor Full Stack apaixonado por transformar ideias em produtos digitais de alta performance. Combino minha formação em **Análise e Desenvolvimento de Sistemas** com experiência prática na construção de interfaces modernas e APIs robustas.
+Desenvolvedor Full Stack apaixonado por transformar ideias em produtos digitais de alta performance. Tecnólogo em **Análise e Desenvolvimento de Sistemas** (FATEC), com experiência no ciclo completo do produto web — do levantamento de requisitos ao deploy — incluindo o desenvolvimento de um **sistema ERP do zero**, com testes automatizados e CI/CD.
 
-Atualmente, concentro minha expertise em **TypeScript**, orquestrando arquiteturas eficientes com **Next.js** no front-end e **Node.js** no back-end. Busco entregar não apenas código limpo, mas experiências de usuário excepcionais.
+🚀 **Destaques:**
 
-## 🌐 Redes Sociais
+- 🏗️ Desenvolvi do zero o **ERP Apolo3** para e-commerce (produtos, pedidos, NF-e, pagamentos e marketplaces)
+- 🔄 Integrações com **Stripe, Mercado Livre, Shopee, Tray e Correios** via webhooks e filas assíncronas
+- 🧪 Qualidade com **Vitest, Playwright e Storybook**
+- 🐳 Deploy automatizado com **Docker, GitHub Actions e Vercel**
 
-[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vitorjgomes.vercel.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitorgms/) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5518991222161)
+## 🛠️ Stack
 
-## 🚀 Portfólio
+<div align="center">
 
-Confira meus projetos e mais detalhes sobre minha trajetória no meu portfólio:
+[![Stack](https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nodejs,nestjs,prisma,mysql,postgres,redis,docker,git,github,vercel&theme=dark)](https://skillicons.dev)
 
-[![Portfólio Vitor Gomes](https://img.shields.io/badge/🌐%20vitorjgomes.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vitorjgomes.vercel.app/)
+</div>
 
-## 💻 Tecnologias
+### Detalhamento
 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+| Categoria | Tecnologias |
+|-----------|-------------|
+| **Front-end** | React, Next.js, TypeScript, TailwindCSS, shadcn/ui, React Query, React Hook Form, Zod, Recharts |
+| **Back-end** | Node.js, NestJS, Fastify, Elysia (Bun), APIs REST, Prisma ORM, Drizzle ORM, PostgreSQL, MySQL, Redis, JWT |
+| **Integrações & ERP** | NF-e, Stripe, Mercado Livre, Shopee, Tray, Correios, webhooks, filas de processamento |
+| **Qualidade & Deploy** | Jest, Vitest, React Testing Library, Playwright, Storybook, Git/GitHub, CI/CD, Docker, Vercel |
+| **Método** | Scrum, Kanban, versionamento Git |
 
-<!-- ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748.svg?style=for-the-badge&logo=Prisma&logoColor=white) -->
+## 📌 Projetos em destaque
 
-## 📊 GitHub Estatísticas
+### [![Oiko](https://img.shields.io/badge/Oiko-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devrjs/oiko) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://github.com/devrjs/oiko)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devrjs&theme=dark&hide_border=true)](https://github.com/devrjs)
+Sistema de gerenciamento financeiro full stack — monorepo com Next.js, Elysia (Bun), Drizzle ORM, PostgreSQL, Docker Compose e blue-green deployment via GitHub Actions.
+
+### [![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/devrjs/portifolio) [![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://github.com/devrjs/portifolio)
+
+Meu portfólio pessoal — construído com Next.js 16, TailwindCSS v4, TypeScript e React Compiler. [**Acesse ao vivo →**](https://vitorjgomes.vercel.app/)
+
+> 💡 Quer ver mais? Dê uma olhada nos meus [repositórios](https://github.com/devrjs?tab=repositories).
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=devrjs&theme=dark&hide_border=true)](https://github.com/devrjs)
+
+</div>
 
 ---
 
 <div align="center">
 
-💬 **Vamos conversar?** Fique à vontade para me chamar pelas redes sociais acima.
+💬 **Vamos conversar?** Estou aberto a novas oportunidades e projetos.
+
+[![Portfólio](https://img.shields.io/badge/Portfólio-vitorjgomes.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vitorjgomes.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitorgms/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5518991222161)
 
 </div>
